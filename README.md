@@ -26,3 +26,5 @@ This Tableau dashboard supports weekly business reviews by combining opportunity
 - Which late-stage deals are at risk before quarter-end?
 - Are we likely to hit quarterly targets?
 - Which clients or segments should be prioritized?
+
+> Note: This project uses synthetic data created for portfolio purposes. No real client, employer, or confidential banking data is used.
