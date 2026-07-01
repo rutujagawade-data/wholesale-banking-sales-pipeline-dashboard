@@ -1,0 +1,7 @@
+product_id,product_name,product_group,fee_type
+PR-001,Commercial Loan,Lending,Interest / Fee
+PR-002,Treasury Management,Treasury,Service Fee
+PR-003,Capital Markets,Capital Markets,Transaction Fee
+PR-004,M&A Advisory,Advisory,Advisory Fee
+PR-005,Credit Facility,Lending,Commitment Fee
+PR-006,Equipment Finance,Lending,Financing Fee

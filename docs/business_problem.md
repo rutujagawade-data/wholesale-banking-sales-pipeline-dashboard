@@ -4,7 +4,7 @@
 
 Wholesale banking leaders need a reliable weekly view of sales pipeline health, forecast confidence, stale opportunities, and relationship-manager follow-up priorities.
 
-This project simulates an executive Tableau dashboard for weekly business reviews across sales, finance, product, and analytics teams.
+This project provides an executive Tableau dashboard for weekly business reviews across sales, finance, product, and analytics teams using synthetic portfolio data.
 
 ## Business Problem
 
@@ -32,7 +32,7 @@ The goal is to create a single executive-ready view of pipeline performance, for
 
 ## Dashboard Scope
 
-The dashboard will cover:
+The dashboard covers:
 
 - Open pipeline monitoring
 - Weighted forecast calculation
@@ -41,6 +41,10 @@ The dashboard will cover:
 - Quarterly target comparison
 - Opportunity-level drilldown
 - KPI definitions and data-quality rules
+
+## Published Dashboard
+
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/WholesaleBankingExecutiveSalesPipelineSummary/Dashboard1)
 
 ## Success Criteria
 

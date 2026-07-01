@@ -1,0 +1,151 @@
+client_id,client_name,industry,region,client_segment,relationship_start_date
+CL-0001,Client 1,Financial Services,Midwest,Middle Market,2022-08-21
+CL-0002,Client 2,Real Estate,Midwest,Middle Market,2023-09-17
+CL-0003,Client 3,Energy,Southeast,Commercial,2024-03-27
+CL-0004,Client 4,Financial Services,Midwest,Large Corporate,2019-07-17
+CL-0005,Client 5,Manufacturing,Southeast,Large Corporate,2024-10-21
+CL-0006,Client 6,Transportation,Northeast,Middle Market,2022-12-05
+CL-0007,Client 7,Energy,Midwest,Strategic,2023-09-06
+CL-0008,Client 8,Energy,Northeast,Large Corporate,2018-08-14
+CL-0009,Client 9,Financial Services,Southeast,Strategic,2020-03-08
+CL-0010,Client 10,Healthcare,West,Large Corporate,2024-05-20
+CL-0011,Client 11,Manufacturing,Midwest,Strategic,2020-08-17
+CL-0012,Client 12,Financial Services,Southeast,Commercial,2022-02-13
+CL-0013,Client 13,Manufacturing,West,Strategic,2019-03-29
+CL-0014,Client 14,Manufacturing,West,Commercial,2020-03-26
+CL-0015,Client 15,Transportation,Northeast,Commercial,2019-10-21
+CL-0016,Client 16,Energy,Southeast,Strategic,2019-07-01
+CL-0017,Client 17,Real Estate,West,Commercial,2021-04-30
+CL-0018,Client 18,Transportation,Midwest,Middle Market,2018-01-17
+CL-0019,Client 19,Transportation,Midwest,Commercial,2021-05-28
+CL-0020,Client 20,Manufacturing,Northeast,Large Corporate,2024-01-15
+CL-0021,Client 21,Retail,West,Strategic,2024-11-29
+CL-0022,Client 22,Energy,Southeast,Middle Market,2020-12-05
+CL-0023,Client 23,Healthcare,Midwest,Strategic,2023-11-17
+CL-0024,Client 24,Transportation,West,Large Corporate,2022-11-04
+CL-0025,Client 25,Real Estate,West,Large Corporate,2020-11-26
+CL-0026,Client 26,Retail,Northeast,Large Corporate,2024-05-16
+CL-0027,Client 27,Retail,Midwest,Commercial,2024-12-19
+CL-0028,Client 28,Healthcare,Midwest,Commercial,2018-10-29
+CL-0029,Client 29,Transportation,Southeast,Strategic,2018-06-30
+CL-0030,Client 30,Real Estate,Midwest,Strategic,2019-08-30
+CL-0031,Client 31,Energy,Southeast,Middle Market,2019-12-01
+CL-0032,Client 32,Technology,Midwest,Middle Market,2020-09-19
+CL-0033,Client 33,Real Estate,Northeast,Strategic,2021-02-13
+CL-0034,Client 34,Healthcare,Midwest,Commercial,2018-07-10
+CL-0035,Client 35,Retail,Southeast,Large Corporate,2024-04-19
+CL-0036,Client 36,Energy,Southeast,Strategic,2020-09-07
+CL-0037,Client 37,Real Estate,Northeast,Middle Market,2023-06-30
+CL-0038,Client 38,Technology,Midwest,Commercial,2021-03-30
+CL-0039,Client 39,Technology,Midwest,Strategic,2018-05-08
+CL-0040,Client 40,Manufacturing,Northeast,Strategic,2023-08-28
+CL-0041,Client 41,Manufacturing,Midwest,Commercial,2022-12-22
+CL-0042,Client 42,Financial Services,Midwest,Strategic,2022-10-25
+CL-0043,Client 43,Healthcare,Southeast,Commercial,2019-07-24
+CL-0044,Client 44,Transportation,Midwest,Large Corporate,2021-09-08
+CL-0045,Client 45,Real Estate,Midwest,Commercial,2023-03-11
+CL-0046,Client 46,Real Estate,Northeast,Commercial,2019-09-18
+CL-0047,Client 47,Transportation,Northeast,Commercial,2022-08-14
+CL-0048,Client 48,Financial Services,West,Strategic,2018-06-04
+CL-0049,Client 49,Retail,Southeast,Strategic,2024-12-12
+CL-0050,Client 50,Retail,Midwest,Commercial,2021-11-10
+CL-0051,Client 51,Financial Services,Midwest,Strategic,2020-02-24
+CL-0052,Client 52,Retail,West,Middle Market,2018-09-03
+CL-0053,Client 53,Manufacturing,Midwest,Middle Market,2022-02-09
+CL-0054,Client 54,Real Estate,Southeast,Strategic,2022-09-02
+CL-0055,Client 55,Financial Services,West,Strategic,2019-06-22
+CL-0056,Client 56,Real Estate,Southeast,Commercial,2023-03-06
+CL-0057,Client 57,Transportation,West,Large Corporate,2023-01-16
+CL-0058,Client 58,Technology,West,Strategic,2020-07-09
+CL-0059,Client 59,Manufacturing,Northeast,Middle Market,2024-09-21
+CL-0060,Client 60,Energy,Southeast,Commercial,2019-06-09
+CL-0061,Client 61,Manufacturing,Midwest,Strategic,2022-03-10
+CL-0062,Client 62,Financial Services,Midwest,Middle Market,2018-02-05
+CL-0063,Client 63,Energy,Southeast,Middle Market,2019-11-16
+CL-0064,Client 64,Technology,Midwest,Large Corporate,2018-01-20
+CL-0065,Client 65,Financial Services,Midwest,Commercial,2024-06-26
+CL-0066,Client 66,Healthcare,Southeast,Commercial,2019-02-04
+CL-0067,Client 67,Real Estate,West,Large Corporate,2020-08-29
+CL-0068,Client 68,Technology,Southeast,Large Corporate,2023-03-22
+CL-0069,Client 69,Real Estate,West,Commercial,2024-11-23
+CL-0070,Client 70,Retail,Midwest,Commercial,2021-03-12
+CL-0071,Client 71,Healthcare,Midwest,Strategic,2021-01-20
+CL-0072,Client 72,Healthcare,Midwest,Strategic,2020-04-13
+CL-0073,Client 73,Technology,Northeast,Large Corporate,2022-12-29
+CL-0074,Client 74,Healthcare,West,Strategic,2023-06-06
+CL-0075,Client 75,Energy,Northeast,Middle Market,2020-05-03
+CL-0076,Client 76,Healthcare,Northeast,Strategic,2018-02-20
+CL-0077,Client 77,Real Estate,Southeast,Strategic,2019-07-29
+CL-0078,Client 78,Real Estate,Northeast,Middle Market,2021-02-22
+CL-0079,Client 79,Financial Services,Southeast,Large Corporate,2024-01-07
+CL-0080,Client 80,Real Estate,Southeast,Middle Market,2024-06-19
+CL-0081,Client 81,Financial Services,Northeast,Strategic,2024-06-10
+CL-0082,Client 82,Real Estate,West,Large Corporate,2022-09-12
+CL-0083,Client 83,Energy,West,Strategic,2019-11-13
+CL-0084,Client 84,Transportation,West,Middle Market,2020-04-17
+CL-0085,Client 85,Financial Services,West,Middle Market,2020-12-13
+CL-0086,Client 86,Manufacturing,West,Strategic,2024-10-27
+CL-0087,Client 87,Retail,Northeast,Commercial,2024-04-30
+CL-0088,Client 88,Technology,Northeast,Commercial,2022-05-15
+CL-0089,Client 89,Real Estate,Midwest,Middle Market,2018-01-05
+CL-0090,Client 90,Healthcare,West,Middle Market,2021-01-31
+CL-0091,Client 91,Transportation,Northeast,Commercial,2021-05-04
+CL-0092,Client 92,Real Estate,Midwest,Commercial,2020-02-13
+CL-0093,Client 93,Healthcare,West,Strategic,2020-05-26
+CL-0094,Client 94,Retail,Southeast,Strategic,2020-09-18
+CL-0095,Client 95,Retail,Midwest,Commercial,2018-02-16
+CL-0096,Client 96,Retail,Northeast,Strategic,2018-09-26
+CL-0097,Client 97,Healthcare,Southeast,Strategic,2019-01-05
+CL-0098,Client 98,Real Estate,Southeast,Large Corporate,2019-09-28
+CL-0099,Client 99,Retail,Southeast,Strategic,2021-02-03
+CL-0100,Client 100,Energy,Midwest,Middle Market,2022-08-21
+CL-0101,Client 101,Financial Services,Northeast,Strategic,2022-08-10
+CL-0102,Client 102,Healthcare,Southeast,Strategic,2019-10-19
+CL-0103,Client 103,Healthcare,West,Commercial,2018-04-30
+CL-0104,Client 104,Real Estate,Southeast,Middle Market,2020-04-10
+CL-0105,Client 105,Healthcare,Southeast,Strategic,2022-12-16
+CL-0106,Client 106,Healthcare,Midwest,Strategic,2020-12-17
+CL-0107,Client 107,Retail,Midwest,Large Corporate,2023-05-29
+CL-0108,Client 108,Real Estate,Northeast,Strategic,2021-10-01
+CL-0109,Client 109,Retail,West,Strategic,2020-01-11
+CL-0110,Client 110,Financial Services,Midwest,Large Corporate,2018-04-27
+CL-0111,Client 111,Transportation,Southeast,Commercial,2023-01-28
+CL-0112,Client 112,Financial Services,Northeast,Strategic,2021-02-24
+CL-0113,Client 113,Transportation,Southeast,Large Corporate,2023-04-16
+CL-0114,Client 114,Retail,Southeast,Middle Market,2020-10-09
+CL-0115,Client 115,Financial Services,Midwest,Commercial,2022-07-23
+CL-0116,Client 116,Real Estate,Northeast,Middle Market,2020-12-17
+CL-0117,Client 117,Technology,West,Middle Market,2019-09-26
+CL-0118,Client 118,Retail,West,Large Corporate,2019-05-28
+CL-0119,Client 119,Transportation,Midwest,Strategic,2021-01-24
+CL-0120,Client 120,Energy,Midwest,Large Corporate,2021-02-15
+CL-0121,Client 121,Transportation,Northeast,Large Corporate,2019-07-14
+CL-0122,Client 122,Energy,West,Large Corporate,2019-05-03
+CL-0123,Client 123,Healthcare,West,Large Corporate,2020-06-15
+CL-0124,Client 124,Financial Services,West,Commercial,2021-04-27
+CL-0125,Client 125,Energy,Southeast,Strategic,2019-12-05
+CL-0126,Client 126,Transportation,West,Middle Market,2022-01-10
+CL-0127,Client 127,Healthcare,Southeast,Middle Market,2019-08-04
+CL-0128,Client 128,Technology,Northeast,Strategic,2024-04-13
+CL-0129,Client 129,Real Estate,Southeast,Middle Market,2018-06-03
+CL-0130,Client 130,Real Estate,Northeast,Strategic,2022-08-07
+CL-0131,Client 131,Real Estate,West,Middle Market,2020-09-23
+CL-0132,Client 132,Energy,West,Large Corporate,2021-05-28
+CL-0133,Client 133,Technology,Northeast,Middle Market,2020-12-28
+CL-0134,Client 134,Energy,Midwest,Strategic,2020-10-05
+CL-0135,Client 135,Financial Services,Northeast,Strategic,2023-11-12
+CL-0136,Client 136,Energy,Midwest,Strategic,2022-11-09
+CL-0137,Client 137,Technology,Southeast,Strategic,2020-08-15
+CL-0138,Client 138,Technology,Southeast,Strategic,2019-03-29
+CL-0139,Client 139,Financial Services,Southeast,Commercial,2021-05-12
+CL-0140,Client 140,Technology,West,Commercial,2024-03-15
+CL-0141,Client 141,Transportation,Southeast,Middle Market,2024-11-26
+CL-0142,Client 142,Technology,Midwest,Strategic,2024-10-15
+CL-0143,Client 143,Real Estate,Southeast,Middle Market,2024-07-16
+CL-0144,Client 144,Transportation,Northeast,Strategic,2019-07-05
+CL-0145,Client 145,Transportation,Northeast,Strategic,2022-06-24
+CL-0146,Client 146,Financial Services,West,Commercial,2021-08-05
+CL-0147,Client 147,Manufacturing,Northeast,Commercial,2022-10-24
+CL-0148,Client 148,Manufacturing,Midwest,Large Corporate,2018-12-23
+CL-0149,Client 149,Technology,Southeast,Commercial,2023-09-02
+CL-0150,Client 150,Transportation,West,Large Corporate,2022-11-21
