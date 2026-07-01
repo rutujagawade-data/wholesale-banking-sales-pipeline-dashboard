@@ -11,9 +11,11 @@ This document defines the core KPIs used in the Wholesale Banking Sales Pipeline
 | KPI | Definition | Formula | Business Purpose |
 |---|---|---|---|
 | Open Pipeline | Total value of active opportunities that are not closed won or closed lost. | `SUM(Opportunity Amount) WHERE Status NOT IN ('Closed Won', 'Closed Lost')` | Shows the total active sales pipeline available for future conversion. |
+| Weighted Pipeline | Probability-adjusted opportunity amount from open opportunities. | `SUM(Opportunity Amount × Probability) WHERE Status NOT IN ('Closed Won', 'Closed Lost')` | Shows the risk-adjusted value of the active sales pipeline. |
 | Weighted Fee | Probability-adjusted expected fee from open opportunities. | `SUM(Expected Fee × Probability) WHERE Status NOT IN ('Closed Won', 'Closed Lost')` | Helps estimate forecasted fee revenue based on deal probability. |
 | Closed Won Fee | Total expected fee from opportunities that have been successfully won. | `SUM(Expected Fee) WHERE Status = 'Closed Won'` | Shows realized or booked fee opportunity from won deals. |
-| Target Attainment % | Closed won fee compared to quarterly target fee. | `Closed Won Fee / Target Fee` | Measures progress toward quarterly revenue goals. |
+| Forecast Fee | Closed-won fee plus probability-weighted fee from open opportunities. | `Closed Won Fee + Open Weighted Fee` | Provides a forward-looking estimate of quarterly fee performance. |
+| Forecast Attainment % | Forecast fee compared with the quarterly target fee. | `Forecast Fee / Target Fee` | Shows whether the current forecast is expected to meet or exceed the quarterly target. |
 | Pipeline Coverage | Weighted pipeline compared to the remaining quarterly target. | `Weighted Fee / (Target Fee - Closed Won Fee)` | Shows whether current weighted pipeline is enough to cover the remaining target gap. |
 | Stale Pipeline % | Share of open expected fee tied to stale opportunities. | `Stale Expected Fee / Total Open Expected Fee` | Identifies pipeline quality risk and follow-up needs. |
 | WoW Open Pipeline Change | Change in open pipeline compared to the prior weekly snapshot. | `Current Week Open Pipeline - Prior Week Open Pipeline` | Shows whether total active pipeline is growing or shrinking week over week. |
@@ -46,5 +48,5 @@ This document defines the core KPIs used in the Wholesale Banking Sales Pipeline
 - An opportunity is considered stale if it is open and has had no activity for more than 21 days.
 - An opportunity is considered past due if its expected close date is before the current snapshot date and the opportunity is still open.
 - Late-stage pipeline includes opportunities in `Negotiation` or `Commitment`.
-- Target Attainment % is calculated at the quarter, region, and product-group level.
+- Forecast Attainment % is calculated at the quarter, region, and product-group level.
 - Opportunity-level detail should reconcile back to executive KPI totals.
