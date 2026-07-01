@@ -210,18 +210,15 @@ The random seed is fixed at `42` for reproducibility.
 └── README.md
 ```
 
-## Productionization Path
+## Production Considerations
 
-The repository intentionally uses CSV files and Tableau Public for portability.
-These production components are design recommendations, not implemented claims:
+This project uses CSV files for portability. A production implementation would require:
 
-- land source extracts in Amazon S3 with encryption, retention, and access policies
-- orchestrate incremental transformations with AWS Glue or a managed workflow tool
-- materialize dimensional models and governed marts in Amazon Redshift
-- add scheduled quality checks, freshness monitoring, lineage, and failure alerts
-- apply role-based and row-level access to client and relationship-manager data
-- publish certified datasets for self-service reporting in Tableau or QuickSight
-- monitor dashboard usage, query performance, and metric adoption
+- automated incremental data ingestion
+- a governed cloud data warehouse
+- scheduled data-quality and freshness monitoring
+- role-based access to sensitive banking data
+- certified datasets for self-service reporting
 
 ## Limitations and Tradeoffs
 
